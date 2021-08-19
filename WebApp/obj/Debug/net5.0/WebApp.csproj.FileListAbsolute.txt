@@ -38,3 +38,8 @@ C:\Users\MTECH\source\repos\WebApp\WebApp\obj\Debug\net5.0\ref\WebApp.dll
 C:\Users\MTECH\source\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.pdb
 C:\Users\MTECH\source\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
 C:\Users\MTECH\source\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+C:\Users\MTECH\source\repos\WebApp\WebApp\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\MTECH\source\repos\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MTECH\source\repos\WebApp\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MTECH\source\repos\WebApp\WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MTECH\source\repos\WebApp\WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll

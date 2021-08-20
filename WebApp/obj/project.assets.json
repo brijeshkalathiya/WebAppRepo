@@ -545,7 +545,8 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "BrijeshKalathiyaLibrary >= 1.0.3",
-      "Microsoft.EntityFrameworkCore >= 5.0.9"
+      "Microsoft.EntityFrameworkCore >= 5.0.9",
+      "Microsoft.Extensions.Logging >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -594,6 +595,10 @@
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.9, )"
+          },
+          "Microsoft.Extensions.Logging": {
+            "target": "Package",
+            "version": "[5.0.0, )"
           }
         },
         "imports": [
